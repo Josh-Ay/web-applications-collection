@@ -39,7 +39,9 @@ A web application that finds the most common colors in an uploaded image effecti
 ### Unsplash Clone
 A clone of unsplash website.
 
-- [Link to codebase](https://github.com/Josh-Ay/my-unsplash-clone)
+- Link to codebase
+  1. [frontend](https://github.com/Josh-Ay/my-unsplash-clone)
+  2. [backend](https://github.com/Josh-Ay/my-unsplash-clone-backend)
 - [Link to live site](https://focused-bassi-b35684.netlify.app/)
 
 ![](./assets/unsplash/desktop-screenshot-min.png)
