@@ -1,7 +1,8 @@
-# A collection of web applications built using HTML/CSS, Flask, EJS, React, Next.
+# A collection of web applications built using HTML/CSS, Flask, EJS, React, NextJS.
 
 
 ## List of Web Applications
+- [Thullo App](#thullo-app)
 - [Chat Group Application](#chat-group-application)
 - [Twitter Clone](#twitter-clone)
 - [Image Colour Palette Generator](#image-colour-palette-generator)
@@ -10,6 +11,15 @@
 - [Cafe and Wifi Website](#cafe-and-wifi-website)
 - [Blog Website](#blog-website)
 - [Movie App](#movie-app)
+
+### Thullo App
+A web application clone of Trello built for visual collaboration and project management
+
+- [Link to codebase](https://github.com/Josh-Ay/thullo)
+- [Link to live site](https://thullo-silk.vercel.app)
+
+![](./assets/thullo-app/thullo-3.png)
+![](./assets/thullo-app/thullo-2.png)
 
 ### Chat Group Application
 Chatting, Audio/Video calling on the blockchain in real-time.
